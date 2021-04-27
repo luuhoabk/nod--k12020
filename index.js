@@ -27,7 +27,7 @@ let option = { useNewUrlParser: true, useUnifiedTopology: true };
  //let url = "mongodb://139.59.119.72:27017/k12020"; //get connect with mongo shell
 // let url = "mongodb://HoaK12020:pass12345@139.59.119.72:27017/k12020"; //get connect with mongo shell
 // let url = "mongodb://root:pass12345@34.93.177.220:27017/admin"; //get connect with mongo shell
-let url = "mongodb://104.154.55.182:27017/k12020"; //get connect with mongo shell 
+let url = "mongodb://35.200.211.77:27017/k12020"; //get connect with mongo shell 
 
 //CRUD 
 //1. tao model
